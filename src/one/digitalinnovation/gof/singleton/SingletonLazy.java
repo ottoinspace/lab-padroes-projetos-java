@@ -1,6 +1,4 @@
-package one.digitalinnovation.gof;
-
-import javax.swing.*;
+package one.digitalinnovation.gof.singleton;
 
 public class SingletonLazy {
     private static SingletonLazy instancia;
